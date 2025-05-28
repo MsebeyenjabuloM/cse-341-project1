@@ -5,9 +5,10 @@
     "description": "Contacts Api",
     "version": "1.0.0"
   },
-  "host": "cse-341-project1-1k5k.onrender.com/Contacts/",
+  "host": "localhost:3000",
   "basePath": "/",
   "schemes": [
+    "http",
     "https"
   ],
   "paths": {
